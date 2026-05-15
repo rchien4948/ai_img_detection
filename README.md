@@ -6,11 +6,14 @@ binary classifier: human vs AI images
 
 Dataset Link: https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images
 
-Approaches:
+## Approaches:
  - Feed-Forward Neural Network (under re-construction, original files lost)
  - Convolutional Neural Network (CNN_classifier.ipynb)
 
 # Results
+
+Please see the /results/ folder for detailed graphics. 
+
 | Metric   | FFNN    | CNN   |
 |----------|--------|--------|
 | Accuracy |        | 0.9077 |
