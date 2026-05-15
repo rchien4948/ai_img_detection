@@ -9,3 +9,10 @@ Dataset Link: https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-genera
 Approaches:
  - Feed-Forward Neural Network (under re-construction, original files lost)
  - Convolutional Neural Network (CNN_classifier.ipynb)
+
+# Results
+| Metric   | FFNN    | CNN   |
+|----------|--------|--------|
+| Accuracy |        | 0.9077 |
+| F1       |        | 0.9077 |
+| MCC      |        | 0.8251 |
