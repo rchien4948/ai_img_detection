@@ -16,6 +16,7 @@ Please see the /results/ folder for detailed graphics.
 
 | Metric   | FFNN    | CNN   |
 |----------|--------|--------|
-| Accuracy |        | 0.9077 |
-| F1       |        | 0.9077 |
-| MCC      |        | 0.8251 |
+| Accuracy |        | 0.89965 |
+| F1       |        | 0.89965 |
+| MCC      |        | 0.81301 |
+| Params   |        | 4,599,809 |
