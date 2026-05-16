@@ -209,3 +209,6 @@ __marimo__/
 #Exclude dataset
 /data/archive.zip
 /data/cifake/
+
+#Exclude saved models (size)
+/results/*.pth
